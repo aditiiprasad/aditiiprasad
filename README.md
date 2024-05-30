@@ -6,7 +6,7 @@ Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech Com
 </h3>
 <h2>About me:</h2>
 
-<!--
+```
 Name: Aditi
 From: Gurgaon, Haryana, India
 education:
@@ -24,4 +24,4 @@ fields_of_interests:
   ]
 
 currently_learning: ["JavaScript and DSA"]
--->
+```
