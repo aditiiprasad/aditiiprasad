@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0c0a8a&text=Hello,%20Namaste!&textBg=false&fontColor=ffebef&animation=fadeIn"/>
+</p>
 
 <!--
 **aditiiprasad/aditiiprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
