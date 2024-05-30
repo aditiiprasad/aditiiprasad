@@ -17,17 +17,14 @@ Fields_of_interests: Web Development,
                      AI, 
 currently_learning:  JavaScript and DSA
 ```
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&height=70&color=3c128a&text=Skills&textBg=false&fontColor=ffebef&animation=fadeIn&fontSize=25"/>
-</p>
+<h2>Skills</h2>
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=70&color=gradient&text=Socials&textBg=false&fontColor=ffebef&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false"/>
-</p>
-<p align="center">
+
+<h2>Socials</h2>
+<p>
 <a href="https://www.linkedin.com/in/aditiiprasad/">
   <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s160-c-k-c0x00ffffff-no-rj" alt="linkedin" height="50">
 </a>
