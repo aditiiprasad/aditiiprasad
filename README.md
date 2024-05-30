@@ -17,5 +17,10 @@ Fields_of_interests: Web Development,
                      AI, 
 currently_learning:  JavaScript and DSA
 ```
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=3c128a&text=Skills&textBg=false&fontColor=ffebef&animation=fadeIn&fontSize=50"/>
+</p>
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
 
 
