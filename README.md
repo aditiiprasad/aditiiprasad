@@ -22,6 +22,8 @@ currently_learning:  JavaScript and DSA
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditiiprasad&show_icons=true&locale=en&layout=compact" alt="aditiiprasad" /></p>
+
 
 <h2>Socials</h2>
 <p>
