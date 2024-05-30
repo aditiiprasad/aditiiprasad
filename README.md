@@ -9,19 +9,13 @@ Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech Com
 ```
 Name: Aditi
 From: Gurgaon, Haryana, India
-education:
-  [
-    Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
-    2nd Year
-  ]
-
-fields_of_interests:
-  [
-    Web Development,
-    App Devlopment,
-    DSA,
-    AI, 
-  ]
-
-currently_learning: ["JavaScript and DSA"]
+Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
+           2nd Year
+Fields_of_interests: Web Development,
+                     App Devlopment,
+                     DSA,
+                     AI, 
+currently_learning:  JavaScript and DSA
 ```
+
+
