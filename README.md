@@ -4,9 +4,12 @@
 <h3 align="center">
 Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech Computer Science student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
 </h3>
-<h2>About me:</h2>
-<details align="center">
+
+<details >
 <summary>Read More</summary>
+ 
+<h2>About me:</h2>
+
 
 ```
 Name: Aditi
@@ -24,9 +27,10 @@ currently_learning:  JavaScript and DSA
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditiiprasad&show_icons=true&locale=en&layout=compact" alt="aditiiprasad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditiiprasad&show_icons=true&locale=en&layout=compact" alt="aditiiprasad" />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=tokyonight&show_icons=true)
+</p>
 
 <h2>Socials</h2>
 <p>
