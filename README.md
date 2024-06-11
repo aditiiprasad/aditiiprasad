@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0c0a8a&text=Hello,%20Namaste!&textBg=false&fontColor=ffebef&animation=fadeIn"/>
 </p>
 <h3 align="center">
-Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech Computer Science student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
+Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
 </h3>
 
 <details >
