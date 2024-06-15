@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0c0a8a&text=Hello,%20Namaste!&textBg=false&fontColor=ffebef&animation=fadeIn"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3f0785&text=Hello,%20Namaste!&textBg=false&fontColor=ffebef&animation=fadeIn"/>
 </p>
 <h3 align="center">
 Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
@@ -49,9 +49,9 @@ currently_learning:  JavaScript and DSA
 
 ![](https://komarev.com/ghpvc/?username=aditiiprasad&color=941315&label=Profile+Visits)
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=0c0a8a&random=false&width=435&lines=Thank+you+for+visiting+my+profile+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=3f0785&random=false&width=435&lines=Thank+you+for+visiting+my+profile+" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3083d1&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3f0785&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
 </p>
 </details>
 
