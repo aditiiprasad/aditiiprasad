@@ -10,7 +10,7 @@ Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  st
  
 <h2>About me:</h2>
 
-
+<p align="left">
 ```
 Name: Aditi
 From: Gurgaon, Haryana, India
@@ -22,6 +22,7 @@ Fields_of_interests: Web Development,
                      AI, 
 currently_learning:  JavaScript and DSA
 ```
+</p>
 <h2>Skills</h2>
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
