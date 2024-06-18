@@ -30,7 +30,9 @@ currently_learning:  JavaScript and DSA
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
+ <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" alt="aditiiprasad's GitHub Stats" />
+ </div>
 </p>
 
 <h2>Socials</h2>
