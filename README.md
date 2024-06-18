@@ -43,6 +43,9 @@ currently_learning:  ML and DSA
 <a href="https://www.linkedin.com/in/aditiiprasad/">
   <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s160-c-k-c0x00ffffff-no-rj" alt="linkedin" height="50">
 </a>
+<a href="https://leetcode.com/u/aditiiprasad/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="instagram" height="50">
+</a>
 
 <a href="https://www.instagram.com/aditiiprasad/">
   <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
