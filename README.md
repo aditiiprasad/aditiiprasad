@@ -27,9 +27,10 @@ currently_learning:  JavaScript and DSA
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditiiprasad&show_icons=true&locale=en&layout=compact" alt="aditiiprasad" />
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=tokyonight&show_icons=true)
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" alt="aditiiprasad's GitHub Stats" />
 </p>
 
 <h2>Socials</h2>
