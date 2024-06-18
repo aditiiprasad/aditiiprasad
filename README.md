@@ -48,7 +48,7 @@ currently_learning:  JavaScript and DSA
   <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
 </a>
 </p>
-</div>
+
 <p align="center">
 <a>Or,You can mail me here <a href="mailto:aditi03prasad@gmail.com">aditi03prasad@gmail.com</a>
 </p>
@@ -56,6 +56,7 @@ currently_learning:  JavaScript and DSA
 ![](https://komarev.com/ghpvc/?username=aditiiprasad&color=941315&label=Profile+Visits)
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=3f0785&random=false&width=435&lines=Thank+you+for+visiting+my+profile+" alt="Typing SVG" /></a>
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c40c96,100:060dc9&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
 </p>
