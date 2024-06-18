@@ -1,6 +1,6 @@
-
+<p>
  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:c40c96,100:060dc9&text=Hello,%20Namaste!&textBg=false&fontColor=ffebef&animation=fadeIn"/>
-
+</p>
 <h3 align="center">
 Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
 </h3>
