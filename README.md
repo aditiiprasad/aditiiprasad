@@ -28,7 +28,7 @@ currently_learning:  ML and DSA
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
@@ -43,7 +43,7 @@ currently_learning:  ML and DSA
 <a href="https://www.linkedin.com/in/aditiiprasad/">
   <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s160-c-k-c0x00ffffff-no-rj" alt="linkedin" height="50">
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/aditiiprasad/">
   <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
 </a>
