@@ -6,7 +6,7 @@ Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  st
 </h3>
 
 <details>
-<summary  align="center">Read More</summary>
+<summary  align="center" color="red">Read More</summary>
  
 <h2>About me:</h2>
 
@@ -17,11 +17,11 @@ Name: Aditi
 From: Gurgaon, Haryana, India
 Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
            2nd Year
-Fields_of_interests: Web Development,
-                     App Devlopment,
-                     DSA,
-                     AI, 
-currently_learning:  JavaScript and DSA
+Fields_of_interests: Web Development
+                     DSA
+                     AI
+                     Machine Learning 
+currently_learning:  ML and DSA
 ```
 <div  align="center">
 <h2>Skills</h2>
