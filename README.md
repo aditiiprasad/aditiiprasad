@@ -29,7 +29,7 @@ currently_learning:  JavaScript and DSA
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql,git,github,vscode" />
-</div>
+
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
@@ -48,7 +48,7 @@ currently_learning:  JavaScript and DSA
   <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
 </a>
 </p>
-
+</div>
 <p align="center">
 <a>Or,You can mail me here <a href="mailto:aditi03prasad@gmail.com">aditi03prasad@gmail.com</a>
 </p>
