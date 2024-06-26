@@ -4,10 +4,8 @@
 <h3 align="center">
 Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
 </h3>
-<h4 align="center"><i>To know more about me click 'read more' below-</i></h4>
-<details>
-<summary  align="center" >Read More</summary>
- 
+
+ <hr>
 <h2>About me:</h2>
 
 
@@ -66,7 +64,7 @@ currently_learning:  ML and DSA
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c40c96,100:060dc9&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
 </p>
-</details>
+
 
 
 
