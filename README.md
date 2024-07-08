@@ -73,6 +73,11 @@ currently_learning:  ML and DSA
 <a href="https://www.instagram.com/aditiiprasad/">
   <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
 </a>
+<a href="https://twitter.com/Aditiiprasad">
+  <img src="https://freepnglogo.com/images/all_img/1691832460x-twitter-logo-png.png" alt="instagram" height="50">
+</a>
+
+ 
 </p>
 
 
