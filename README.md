@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">
 Welcome to my tech corner! I'm Aditi, a web development enthusiast and BTech  student. Here, I explore the intricacies of front-end development, constantly pushing boundaries to craft dynamic and engaging web experiences. Join me as I innovate and collaborate to build tech solutions that aim to make a positive impact.
+
+ ![](https://komarev.com/ghpvc/?username=aditiiprasad&color=941315&label=Profile+Visits)
 </h3>
 
  <hr>
@@ -88,7 +90,7 @@ currently_learning:  ML and DSA
 <a>Or,You can mail me here <a href="mailto:aditi03prasad@gmail.com">aditi03prasad@gmail.com</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=aditiiprasad&color=941315&label=Profile+Visits)
+
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=25&pause=1000&color=3f0785&random=false&width=435&lines=Thank+you+for+visiting+my+profile+" alt="Typing SVG" /></a>
 </div>
