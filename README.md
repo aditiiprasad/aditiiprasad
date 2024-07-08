@@ -39,29 +39,31 @@ currently_learning:  ML and DSA
 <h2>Coding Profiles</h2>
 <p>
  <a href="https://codolio.com/profile/aditiiprasad">
-  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="codolio" height="50">
+  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="codolio" height="50" style="margin: 10px;">
 </a>
+ 
  <a href="https://leetcode.com/u/aditiiprasad/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="50" style="margin: 10px;">
 </a>
+
 <a href="https://www.hackerrank.com/profile/aditiiprasad">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" height="50" style="margin: 10px;">
 </a>
  
  <a href="https://codeforces.com/profile/aditiiprasad">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" alt="codeforces" height="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" alt="codeforces" height="50" style="margin: 10px;">
 </a>
  
  <a href="https://www.geeksforgeeks.org/user/aditiiprasad/">
-  <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="geeksforgeeks" height="50">
+  <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="geeksforgeeks" height="50" style="margin: 10px;">
 </a>
  
  <a href="https://www.interviewbit.com/profile/9adcfy_g8p/">
-  <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/v1436904172/ogamz6kykgz4kdz25ztl.png" alt="interviewbit" height="50">
+  <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/v1436904172/ogamz6kykgz4kdz25ztl.png" alt="interviewbit" height="50" style="margin: 10px;">
 </a>
 
  <a href="https://www.codechef.com/users/aditiiprasad">
-  <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/zruiknbedz8yqafxbazb" alt="codechef" height="50">
+  <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/zruiknbedz8yqafxbazb" alt="codechef" height="50" style="margin: 10px;">
 </a>
 </p>
 
