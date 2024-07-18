@@ -31,8 +31,9 @@ currently_learning:  ML and DSA
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
 
+# 📊 GitHub Stats:
 <p>
-
+ 
  ![](https://github-profile-trophy.vercel.app/?username=aditiiprasad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
@@ -80,7 +81,7 @@ currently_learning:  ML and DSA
 <h2> 🌐  Socials</h2>
 <p>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg? logo=X&logoColor=white)](https://x.com/aditiiprasad) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditiiprasad) 
 
  
 </p>
