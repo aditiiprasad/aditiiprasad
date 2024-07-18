@@ -38,6 +38,7 @@ currently_learning:  ML and DSA
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
  <div align="center">
+ <img src="https://github.com/aditiiprasad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   
  ![](https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
  ![](https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=false)<br/>
