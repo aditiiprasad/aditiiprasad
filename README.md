@@ -32,10 +32,15 @@ currently_learning:  ML and DSA
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
 
 <p>
+
+ ![](https://github-profile-trophy.vercel.app/?username=aditiiprasad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aditiiprasad's GitHub Stats" />
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" alt="aditiiprasad's GitHub Stats" />
+  
+ ![](https://github-readme-stats.vercel.app/api?username=aditiiprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
   ![](https://github-contributor-stats.vercel.app/api?username=aditiiprasad&limit=5&theme=radical&combine_all_yearly_contributions=true)
  </div>
@@ -72,17 +77,10 @@ currently_learning:  ML and DSA
 </a>
 </p>
 
-<h2>Socials</h2>
+<h2> 🌐  Socials</h2>
 <p>
-<a href="https://www.linkedin.com/in/aditiiprasad/">
-  <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s160-c-k-c0x00ffffff-no-rj" alt="linkedin" height="50">
-</a>
-<a href="https://www.instagram.com/aditiiprasad/">
-  <img src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="instagram" height="50">
-</a>
-<a href="https://twitter.com/Aditiiprasad">
-  <img src="https://freepnglogo.com/images/all_img/1691832460x-twitter-logo-png.png" alt="instagram" height="50">
-</a>
+
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg? logo=X&logoColor=white)](https://x.com/aditiiprasad) 
 
  
 </p>
