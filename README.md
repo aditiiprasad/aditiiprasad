@@ -29,7 +29,7 @@ currently_learning:  ML and DSA
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=java,c,javascript" />
 <h4>Technologies/Frameworks:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" />
 
 # 📊 GitHub Stats:
 <p>
