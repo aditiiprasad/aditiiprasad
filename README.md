@@ -78,7 +78,7 @@ currently_learning:  ML and DSA
 <h2> 🌐  Socials</h2>
 <p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditiiprasad) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditiiprasad) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aditiiprasad)
 
  
 </p>
