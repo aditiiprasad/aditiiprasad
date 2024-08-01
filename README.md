@@ -46,9 +46,6 @@ currently_learning:  ML and DSA
 
 <h2>Coding Profiles</h2>
 <p>
- <a href="https://codolio.com/profile/aditiiprasad">
-  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="codolio" height="50" >
-</a>
  
  <a href="https://leetcode.com/u/aditiiprasad/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="50" >
