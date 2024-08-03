@@ -27,7 +27,7 @@ currently_learning:  ML and DSA
 <div  align="center">
 <h2>Skills</h2>
 <h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,python" />
 <h4>Technologies/Frameworks:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" />
 
