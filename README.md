@@ -4,7 +4,7 @@
 
 <div  align="right">
 
-<img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=941295&label=Profile+Visits" alt="Profile Visits" width="100"/>
+<img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
 
 </div>
 
@@ -26,13 +26,13 @@ Interested in dev and legos
 <h5><b>Things I know-</b></h5>
 
 <h6>Languages</h6>
-<img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="100" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="150" />
 <h4>Technologies/Frameworks:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="295" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="335" />
 
 <h5><b>Some Stats-</b></h5>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=false" width="300"/>
 
