@@ -10,6 +10,8 @@
 
 <hr>
 
+<details align="center">
+<summary>More</summary>
 <h5>About me</h5>
 
 ```
@@ -98,5 +100,5 @@ Interested in dev and legos
 
 
 
-
+</details>
 
