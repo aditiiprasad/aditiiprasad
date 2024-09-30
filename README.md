@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=slice&height=80&color=0:6816db,100:21044a&text=Hola!&fontAlign=10&section=header&reversal=true&fontColor=d7cfe3&fontAlignY=42&fontSize=50&desc=Welcome%20to%20my%20tech%20corner&descAlignY=33&descAlign=31&descSize=15"/>
 </p>
 
-<div  align="center">
+<div  align="right">
 
 <img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=941295&label=Profile+Visits" alt="Profile Visits" width="100"/>
 
