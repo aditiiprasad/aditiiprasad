@@ -20,15 +20,15 @@ From: Gurgaon, Haryana, India
 Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
            2nd Year
 
-Interested in dev and legos
+Interested in dev and lego
 ```
 
 <h5><b>Things I know-</b></h5>
 
 <h6>Languages</h6>
 <img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="150" />
-<h4>Technologies/Frameworks:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="335" />
+<h6>Technologies/Frameworks:</h6>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="375" />
 
 <h5><b>Some Stats-</b></h5>
 
