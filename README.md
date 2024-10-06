@@ -25,8 +25,9 @@ Name: Aditi
 From: Gurgaon, Haryana, India
 Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
            2nd Year
+           coding my way through... or at least passing finals!
 
-Interested in dev and lego
+Interested in Dev stuff and playing with legos – both involve building cool things!
 ```
 
 <h2><b>Things I know-</b></h2>
