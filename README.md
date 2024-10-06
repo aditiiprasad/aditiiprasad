@@ -102,7 +102,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c40c96,100:060dc9&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
 </p> -->
 
-<img src="\img\image1.png" width="200"> <img src="https://readme-typing-svg.demolab.com?font=Reenie+Beanie&weight=500&duration=3000&pause=500&color=F4AAF7&width=435&lines=Thank+you+for+visiting+!" alt="Typing SVG" />
+<img src="\img\image1.png" width="80"> <img src="https://readme-typing-svg.demolab.com?font=Reenie+Beanie&weight=500&duration=3000&pause=500&color=F4AAF7&width=435&lines=Thank+you+for+visiting+!" alt="Typing SVG" />
 
 </details>
 
