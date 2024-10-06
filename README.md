@@ -5,14 +5,21 @@
 <div  align="right">
 
 <img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
-
+</div>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" width="300"  />
+  </div>
 </div>
 
 <hr>
 
 <details align="left">
 <summary align="center">More</summary>
-<h3>About me</h3>
+<h2>About me</h2>
 
 ```
 Name: Aditi
@@ -23,10 +30,10 @@ Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
 Interested in dev and lego
 ```
 
-<h5><b>Things I know-</b></h5>
+<h2><b>Things I know-</b></h2>
 
 <h6>Languages</h6>
-<img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="150" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="200" />
 <h6>Technologies/Frameworks:</h6>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="375" />
 
@@ -34,7 +41,7 @@ Interested in dev and lego
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=false" width="300"/>
+ 
 
 
 <h5><b>Coding Profiles-</b></h5>
