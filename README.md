@@ -18,7 +18,7 @@
 
 <details align="left">
 <summary align="center">More</summary>
-<a href="https://www.fontspace.com/category/chalkboard"><img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/QWJvdXQgbWU6/dk-crayon-crumble.png?r=fs&h=40&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=24" alt="Chalkboard fonts"></a>
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/QWJvdXQgbWU6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=24" alt="Chalkboard fonts">
 
 ```
 Name: Aditi
@@ -30,7 +30,7 @@ Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
 Interested in Dev stuff and playing with legos – both involve building cool things!
 ```
 
-<h2><b>Things I know-</b></h2>
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/VGhpbmcgSSBrbm93IDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 
 <h5>Languages</h5>
 <img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="200" />
@@ -41,7 +41,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
  
 
 
-<h2><b>Coding Profiles-</b></h2>
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/Q29kaW5nIFByb2ZpbGVzIDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 <p>
  
  <a href="https://leetcode.com/u/aditiiprasad/">
@@ -80,7 +80,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 </a>
 </p> -->
 
-<h6> 🌐  Socials</h6>
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/U29jaWFscyA6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 <p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditiiprasad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiiprasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditiiprasad) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aditiiprasad)
