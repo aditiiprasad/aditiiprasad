@@ -31,27 +31,24 @@ Interested in dev and lego
 
 <h2><b>Things I know-</b></h2>
 
-<h6>Languages</h6>
+<h5>Languages</h5>
 <img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="200" />
-<h6>Technologies/Frameworks:</h6>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="375" />
+<h5>Technologies/Frameworks:</h5>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="500" />
 
-<h5><b>Some Stats-</b></h5>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
 
  
 
 
-<h5><b>Coding Profiles-</b></h5>
-<p?>
+<h2><b>Coding Profiles-</b></h2>
+<p>
  
  <a href="https://leetcode.com/u/aditiiprasad/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="30" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="leetcode" height="50" >
 </a>
 
 <a href="https://www.hackerrank.com/profile/aditiiprasad">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" height="30" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" height="50" >
 </a>
 </p>
 
