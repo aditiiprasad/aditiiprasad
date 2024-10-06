@@ -7,10 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
 </div>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
+   <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" width="300"  />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" width="300" />
+</div>
+
 
 <hr>
 
