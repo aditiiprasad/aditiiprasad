@@ -29,7 +29,7 @@ Education: Pursuing B.Tech in Computer Science and Engineering from BIT Mesra,
 
 Interested in Dev stuff and playing with legos – both involve building cool things!
 ```
-
+<hr>
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/VGhpbmcgSSBrbm93IDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 
 <h5>Languages</h5>
@@ -40,7 +40,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 
  <br>
 
-
+<hr>
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/Q29kaW5nIFByb2ZpbGVzIDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 <p>
  
@@ -79,7 +79,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/zruiknbedz8yqafxbazb" alt="codechef" height="50" >
 </a>
 </p> -->
-
+<hr>
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/U29jaWFscyA6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
 <p>
 
