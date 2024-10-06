@@ -34,7 +34,7 @@ Interested in dev and lego
 <h5>Languages</h5>
 <img src="https://skillicons.dev/icons?i=java,c,javascript,python" width="200" />
 <h5>Technologies/Frameworks:</h5>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="500" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="600" />
 
 
  
