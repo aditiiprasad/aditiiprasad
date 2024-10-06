@@ -38,7 +38,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express,mongodb,mysql,git,github,vscode,idea" width="600" />
 
 
- 
+ <br>
 
 
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/Q29kaW5nIFByb2ZpbGVzIDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Chalkboard fonts">
