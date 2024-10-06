@@ -102,7 +102,7 @@ Interested in Dev stuff and playing with legos – both involve building cool th
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c40c96,100:060dc9&textBg=false&fontColor=0c0a8a&animation=fadeIn&fontSize=50&descAlignY=16&descAlign=0&fontAlign=48&reversal=false&section=footer"/>
 </p> -->
 
-
+<img src="\img\image1.png" >
 
 </details>
 
