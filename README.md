@@ -10,9 +10,9 @@
 
 <hr>
 
-<details align="center">
-<summary>More</summary>
-<h5>About me</h5>
+<details align="left">
+<summary align="center">More</summary>
+<h3>About me</h3>
 
 ```
 Name: Aditi
