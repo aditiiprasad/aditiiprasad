@@ -1,5 +1,5 @@
 <p>
- <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=0:6816db,100:21044a&text=Hola!&fontAlign=11&section=header&reversal=true&fontColor=d7cfe3&fontAlignY=42&fontSize=80&desc=Welcome%20to%20my%20tech%20corner&descAlignY=33&descAlign=41&descSize=20"/>
+ <img src="https://see.fontimg.com/api/rf5/xJyV/NWZkYzVmZWZiNjk4NDcyYzk3NWEzZTYwM2EzOGYxYzYudHRm/aG9sYSAhIEkgYW0gQWRpdGkgLCBXZWxjb21lIHRvIG15IHRlY2ggY29ybmVyIA/dk-cool-crayon.png?r=fs&h=49&w=1650&fg=DF97C2&bg=FFFFFF&tb=1&s=30" alt="Crayon fonts">
 </p>
 
 <div  align="right">
