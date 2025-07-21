@@ -1,3 +1,5 @@
+
+
 <p>
  <img src="https://see.fontimg.com/api/rf5/xJyV/NWZkYzVmZWZiNjk4NDcyYzk3NWEzZTYwM2EzOGYxYzYudHRm/aG9sYSAhIEkgYW0gQWRpdGkgLCBXZWxjb21lIHRvIG15IHRlY2ggY29ybmVyIA/dk-cool-crayon.png?r=fs&h=49&w=1650&fg=DF97C2&bg=FFFFFF&tb=1&s=30" alt="Crayon fonts">
 </p>
@@ -11,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300"    />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" width="300" />
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aditiiprasad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditiiprasad?trk=profile-badge">Aditi .</a></div>
+              
 </div>
 
 
