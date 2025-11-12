@@ -1,0 +1,74 @@
+#include <stdio.h>
+#include <string.h>
+
+// Function to perform XOR between two binary strings
+void xorOperation(char *dividend, char *divisor, int len) {
+    for (int i = 0; i < len; i++) {
+        dividend[i] = (dividend[i] == divisor[i]) ? '0' : '1';
+    }
+}
+
+// Function to perform CRC division and find remainder
+void computeCRC(char data[], char divisor[], char remainder[]) {
+    int datalen = strlen(data);
+    int divlen = strlen(divisor);
+    char temp[100];
+
+    // Copy data and append (divlen - 1) zeros to perform division
+    strcpy(temp, data);
+    for (int i = 0; i < divlen - 1; i++) {
+        strcat(temp, "0");
+    }
+
+    // Copy temp to remainder for division
+    strcpy(remainder, temp);
+
+    for (int i = 0; i <= strlen(temp) - divlen; i++) {
+        if (remainder[i] == '1') {
+            xorOperation(&remainder[i], divisor, divlen);
+        }
+    }
+
+    // Extract the remainder bits (last divlen - 1 bits)
+    strcpy(remainder, &remainder[strlen(temp) - divlen + 1]);
+}
+
+int main() {
+    char data[100], divisor[50], remainder[50], transmitted[150], received[150];
+    printf("\n--- Bitwise CRC Error Detection ---\n");
+
+    printf("Enter the data bits: ");
+    scanf("%s", data);
+    printf("Enter the generator polynomial (divisor): ");
+    scanf("%s", divisor);
+
+    // Step 1: Sender side CRC calculation
+    computeCRC(data, divisor, remainder);
+    printf("Calculated CRC bits: %s\n", remainder);
+
+    // Step 2: Transmit data + CRC
+    strcpy(transmitted, data);
+    strcat(transmitted, remainder);
+    printf("Transmitted Codeword: %s\n", transmitted);
+
+    // Step 3: Receiver side check
+    printf("\nEnter the received codeword: ");
+    scanf("%s", received);
+
+    computeCRC(received, divisor, remainder);
+
+    int error = 0;
+    for (int i = 0; i < strlen(remainder); i++) {
+        if (remainder[i] != '0') {
+            error = 1;
+            break;
+        }
+    }
+
+    if (error == 0)
+        printf("✅ No Error Detected (Remainder = %s)\n", remainder);
+    else
+        printf("❌ Error Detected (Remainder = %s)\n", remainder);
+
+    return 0;
+}
