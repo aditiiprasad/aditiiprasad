@@ -1,55 +1,76 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h> // For exit() if error handling is needed, though not strictly necessary for this logic
 
-#define FLAG '~'   // Frame delimiter
-#define ESC  '\\'  // Escape character
-
-// Function to perform byte stuffing
-void byte_stuff(char input[], char stuffed[]) {
-    int i, j = 0;
-
-    stuffed[j++] = FLAG; // Start flag
-
-    for (i = 0; i < strlen(input); i++) {
-        // If FLAG or ESC appears in data, insert ESC before it
-        if (input[i] == FLAG || input[i] == ESC) {
-            stuffed[j++] = ESC;
-        }
-        stuffed[j++] = input[i];
-    }
-
-    stuffed[j++] = FLAG; // End flag
-    stuffed[j] = '\0';
-}
-
-// Function to perform byte destuffing
-void byte_destuff(char stuffed[], char destuffed[]) {
-    int i, j = 0;
-
-    // Skip starting FLAG and ending FLAG
-    for (i = 1; i < strlen(stuffed) - 1; i++) {
-        if (stuffed[i] == ESC) {
-            // Skip ESC and take the next character
-            i++;
-        }
-        destuffed[j++] = stuffed[i];
-    }
-    destuffed[j] = '\0';
-}
-
+/**
+ * @brief C program to perform error correction using the Hamming Code method.
+ *
+ * This conversion assumes the user will input a 7-bit string,
+ * consistent with the original C++ logic.
+ */
 int main() {
-    char input[100], stuffed[200], destuffed[100];
+    // Array to store the 7 bits (index 0 unused, bits[1] to bits[7] used for clarity)
+    // The C++ code used a 7-element vector (0-6), so we'll stick to a 7-element array (0-6)
+    // and map the logic as close as possible.
+    // bits[0] = d3, bits[1] = d5, bits[2] = d6, bits[3] = d7, bits[4] = d4, bits[5] = p2, bits[6] = p1
+    // The original C++ code was mapping:
+    // bits[6] = p1, bits[5] = p2, bits[4] = d3, bits[3] = p3, bits[2] = d4, bits[1] = d5, bits[0] = d6
+    // The original C++ code seems to be using an unconventional indexing/mapping for 7-bit Hamming:
+    // bit 6 (p1), bit 5 (p2), bit 4 (d3), bit 3 (p3), bit 2 (d4), bit 1 (d5), bit 0 (d6)
+    // We will follow the exact array assignment logic of the original C++ code.
+    int bits[7];
+    char code[8]; // Array for C-style string, size 8 for 7 bits + null terminator '\0'
 
-    printf("Enter data to send: ");
-    scanf("%s", input);
+    printf("Enter 7-bit hamming code: ");
+    scanf("%7s", code); // Read up to 7 characters
 
-    // Byte stuffing
-    byte_stuff(input, stuffed);
-    printf("\nData after byte stuffing: %s\n", stuffed);
+    // Convert the 7-bit character string into an integer array (0 or 1)
+    // Original C++ loop: for (int i = 0; i < code.length(); i++) { bits[6 - i] = (code[i] == '1') ? 1 : 0; }
+    // C equivalent:
+    for (int i = 0; i < strlen(code); i++) {
+        // Map: code[0] -> bits[6], code[1] -> bits[5], ..., code[6] -> bits[0]
+        // This is a reverse mapping from the input string to the 'bits' array.
+        bits[6 - i] = (code[i] == '1') ? 1 : 0;
+    }
 
-    // Byte destuffing
-    byte_destuff(stuffed, destuffed);
-    printf("Data after byte destuffing: %s\n", destuffed);
+    // --- Parity Check Calculation (Using the assignments from the original C++ code) ---
+
+    // Original C++ calculation for p1 (C1):
+    // p1 = (bits[5] + bits[4] + bits[2] + bits[0]) % 2
+    int p1 = (bits[5] + bits[4] + bits[2] + bits[0]) % 2;
+
+    // Original C++ calculation for p2 (C2):
+    // p2 = (bits[5] + bits[4] + bits[1] + bits[0]) % 2
+    int p2 = (bits[5] + bits[4] + bits[1] + bits[0]) % 2;
+
+    // Original C++ calculation for p3 (C4):
+    // p3 = (bits[3] + bits[2] + bits[1] + bits[0]) % 2
+    int p3 = (bits[3] + bits[2] + bits[1] + bits[0]) % 2;
+
+    // --- Error Position Calculation ---
+    // The C++ logic assigns the check bits to the positions in reverse order (p1=bit 0, p2=bit 1, p3=bit 2)
+    // This forms the syndrome S2 S1 S0 where S2=p3, S1=p2, S0=p1.
+    // errorPos = 1 * p1 + 2 * p2 + 4 * p3
+    int errorPos = 1 * p1 + 2 * p2 + 4 * p3;
+
+    // --- Error Correction Logic ---
+    if (errorPos == 0) {
+        printf("No error detected\n");
+    } else {
+        // Error detected
+        printf("Error detected at position: %d\n", errorPos);
+
+        // Correct the bit: bits[errorPos - 1] = (bits[errorPos - 1] == 1) ? 0 : 1;
+        // This is equivalent to: bits[errorPos - 1] = 1 - bits[errorPos - 1];
+        bits[errorPos - 1] = 1 - bits[errorPos - 1];
+
+        printf("Corrected Code: ");
+        // Print the corrected code
+        for (int i = 6; i >= 0; i--) {
+            printf("%d", bits[i]);
+        }
+        printf("\n");
+    }
 
     return 0;
 }
