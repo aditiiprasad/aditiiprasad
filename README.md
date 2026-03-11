@@ -17,6 +17,7 @@
               
 </div>
 
+ ![Projects](https://monocard.tomlin7.com/api/card?r=aditiiprasad/DripTrack,aditiiprasad/WhatsStat,aditiiprasad/LagFree,aditiiprasad/f1-driver-image-classifier,aditiiprasad/Tandoori-Bot&speed=12)
 
 <hr>
 
