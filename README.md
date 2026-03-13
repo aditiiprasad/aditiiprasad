@@ -20,15 +20,117 @@
 &nbsp;&nbsp;
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aditiiprasad?cardType=level&theme=radical&fontFamily=&preferLogin=false" height="160" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiiprasad&theme=radical&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+
 </div>
 
 ---
 
+## 🚀 Pinned Projects
+
 <div align="center">
 
-## 🗂️ Featured Projects
-
-<img src="https://monocard.tomlin7.com/api/card?r=aditiiprasad/DripTrack,aditiiprasad/WhatsStat,aditiiprasad/LagFree,aditiiprasad/f1-driver-image-classifier,aditiiprasad/Tandoori-Bot&speed=12" width="380" />
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> DripTrack</h3>
+      <p align="center">
+        Wardrobe Manager
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/DripTrack">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💬 WhatsStat</h3>
+      <p align="center">
+       A fun and insightful WhatsApp chat analyzer that turns your conversations into beautiful stats, juicy graphs, and quirky insights.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/WhatsStat">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ LagFree</h3>
+      <p align="center">
+       Implementation of a Fuzzy Inference System for adaptive video streaming optimization. Simulates network conditions and applies soft computing techniques to achieve smoother playback and higher QoE.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/LagFree">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏎️ F1 Driver Classifier</h3>
+      <p align="center">
+      Image classification model to recognize F1 drivers
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/f1-driver-image-classifier">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Tandoori Bot</h3>
+      <p align="center">
+       Tandoori Bot is your AI-powered kitchen buddy
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/Tandoori-Bot">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖥️ Electron Activity Tracker</h3>
+      <p align="center">
+       Watches what you do on your computer
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/aditiiprasad/electron-activity-tracker">
+          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
