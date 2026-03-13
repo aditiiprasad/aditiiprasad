@@ -22,115 +22,33 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiiprasad&theme=radical&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🚀 Pinned Projects
+## 🌸 Pinned Projects
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> DripTrack</h3>
-      <p align="center">
-        Wardrobe Manager
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/DripTrack">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 WhatsStat</h3>
-      <p align="center">
-       A fun and insightful WhatsApp chat analyzer that turns your conversations into beautiful stats, juicy graphs, and quirky insights.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/WhatsStat">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ LagFree</h3>
-      <p align="center">
-       Implementation of a Fuzzy Inference System for adaptive video streaming optimization. Simulates network conditions and applies soft computing techniques to achieve smoother playback and higher QoE.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/LagFree">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏎️ F1 Driver Classifier</h3>
-      <p align="center">
-      Image classification model to recognize F1 drivers
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/f1-driver-image-classifier">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Tandoori Bot</h3>
-      <p align="center">
-       Tandoori Bot is your AI-powered kitchen buddy
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/Tandoori-Bot">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🖥️ Electron Activity Tracker</h3>
-      <p align="center">
-       Watches what you do on your computer
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/aditiiprasad/electron-activity-tracker">
-          <img src="https://img.shields.io/badge/View_Repo-941295?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/aditiiprasad/DripTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=DripTrack&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
+<a href="https://github.com/aditiiprasad/WhatsStat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=WhatsStat&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
+<a href="https://github.com/aditiiprasad/LagFree">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=LagFree&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
+<a href="https://github.com/aditiiprasad/f1-driver-image-classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=f1-driver-image-classifier&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
+<a href="https://github.com/aditiiprasad/Tandoori-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=Tandoori-Bot&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
+<a href="https://github.com/aditiiprasad/electron-activity-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=electron-activity-tracker&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
+</a>
 
 </div>
 
