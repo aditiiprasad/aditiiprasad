@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiprasad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="aditiiprasad's GitHub Stats" width="300"    />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiprasad&theme=radical&hide_border=true" width="300" />
-  
+   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aditiiprasad?cardType=level&theme=radical&fontFamily=&preferLogin=false" width="300" />
               
 </div>
   <img src="https://monocard.tomlin7.com/api/card?r=aditiiprasad/DripTrack,aditiiprasad/WhatsStat,aditiiprasad/LagFree,aditiiprasad/f1-driver-image-classifier,aditiiprasad/Tandoori-Bot&speed=12" width="300" />
