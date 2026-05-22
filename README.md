@@ -30,6 +30,8 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.shion.dev/api?username=aditiiprasad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditiiprasad?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
+
 </div>
 
 ---
