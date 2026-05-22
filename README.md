@@ -37,7 +37,7 @@
 ---
 
 <details>
-<summary align="center"><b>> ✨ cat about_me.json ✨</b></summary>
+<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
 
 <br/>
 
