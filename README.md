@@ -27,32 +27,7 @@
 
 ---
 
-## 🌸 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/aditiiprasad/DripTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=DripTrack&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-<a href="https://github.com/aditiiprasad/WhatsStat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=WhatsStat&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-<a href="https://github.com/aditiiprasad/LagFree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=LagFree&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-<a href="https://github.com/aditiiprasad/f1-driver-image-classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=f1-driver-image-classifier&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-<a href="https://github.com/aditiiprasad/Tandoori-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=Tandoori-Bot&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-<a href="https://github.com/aditiiprasad/electron-activity-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditiiprasad&repo=electron-activity-tracker&theme=radical&hide_border=true&border_radius=15&title_color=F4AAF7&icon_color=DF97C2&text_color=ffffff&bg_color=0d1117" />
-</a>
-
-</div>
-
----
 
 <details>
 <summary align="center"><b>✨ More about me ✨</b></summary>
